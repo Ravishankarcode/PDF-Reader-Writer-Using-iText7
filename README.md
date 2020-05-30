@@ -1,6 +1,16 @@
 # PDF-Using-iText7
 Generate , Read, Merge , Password Protection PDF Using IText 
 
+## Common Dependency
+```
+	<dependency>
+	    <groupId>com.itextpdf</groupId>
+	    <artifactId>itext7-core</artifactId>
+	    <version>7.0.4</version>
+	    <type>pom</type>
+	</dependency>
+  ```
+
 ## Refrences
 
 [PDF Writer Class Description](https://api.itextpdf.com/iText7/java/7.1.7/com/itextpdf/kernel/pdf/PdfWriter.html)
