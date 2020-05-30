@@ -19,6 +19,8 @@ Generate , Read, Merge , Password Protection PDF Using IText
 
 [Itext Official Website](https://itextpdf.com/en/products/itext-7/itext-7-core)
 
+[Resources Example](https://itextpdf.com/en/resources/examples)
+
 ## PDF Editor
 
 [Small PDF](https://smallpdf.com/edit-pdf)
